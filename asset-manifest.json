@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ME-Image-Generator/static/css/main.5e64ba60.css",
+    "main.js": "/ME-Image-Generator/static/js/main.c116aff5.js",
+    "static/js/453.93752e74.chunk.js": "/ME-Image-Generator/static/js/453.93752e74.chunk.js",
+    "index.html": "/ME-Image-Generator/index.html",
+    "main.5e64ba60.css.map": "/ME-Image-Generator/static/css/main.5e64ba60.css.map",
+    "main.c116aff5.js.map": "/ME-Image-Generator/static/js/main.c116aff5.js.map",
+    "453.93752e74.chunk.js.map": "/ME-Image-Generator/static/js/453.93752e74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e64ba60.css",
+    "static/js/main.c116aff5.js"
+  ]
+}
